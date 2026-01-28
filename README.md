@@ -182,8 +182,6 @@ Setelah menjalankan seeder, tersedia akun demo berikut:
 ![Admin](screenshots/admin-dashboard.png)
 *Dashboard admin dengan statistik*
 
-> **Catatan**: Folder `screenshots/` perlu dibuat dan diisi dengan screenshot aktual dari aplikasi.
-
 ## API Endpoints
 
 | Method | Endpoint | Keterangan |
