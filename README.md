@@ -233,7 +233,3 @@ Aplikasi ini dibuat untuk keperluan tugas kuliah.
 - [Laravel Documentation](https://laravel.com/docs)
 - [TMDb API Documentation](https://developers.themoviedb.org/3)
 - [Bootstrap 5 Documentation](https://getbootstrap.com/docs/5.3)
-
----
-
-*Dibuat dengan ❤️ menggunakan Laravel & TMDb API*
