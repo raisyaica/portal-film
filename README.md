@@ -39,7 +39,7 @@ Portal Film adalah aplikasi web berbasis Laravel yang memungkinkan pengguna untu
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/portal-film.git
+git clone https://github.com/raisyaica/portal-film.git
 cd portal-film
 ```
 
